@@ -32,7 +32,7 @@ state management, and scalable SCSS architecture.
 ## 🌍 Live Demo
 
 **Check out the live application here:**
-[Open Live App](https://andrei-games-catalog.vercel.app)
+[Open Live App](https://aheienko-games-catalog.vercel.app)
 
 ## 🛠 Tech Stack
 
